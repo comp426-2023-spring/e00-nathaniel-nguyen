@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=angry cow surfboard lemon 012345
+EXAMCODE=815967451
 
 echo ${EXAMCODE}
