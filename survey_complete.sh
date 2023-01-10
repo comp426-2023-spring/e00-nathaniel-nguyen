@@ -2,4 +2,4 @@
 
 EXAMCODE=815967451
 
-echo ${EXAMCODE}
+echo ${815967451}
